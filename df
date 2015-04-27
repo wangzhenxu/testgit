@@ -1,0 +1,60 @@
+[33mcommit a580d0bb5b1525944b0233f9049c832ee6cce534[m
+Merge: 66a0cba 0c63fc2
+Author: wangzhenxu <273035735@qq.com>
+Date:   Thu Apr 23 11:11:26 2015 +0800
+
+    conflict fixed
+
+[33mcommit 66a0cba6bef13852fa3f83e13348a2003ab595ed[m
+Author: wangzhenxu <273035735@qq.com>
+Date:   Thu Apr 23 10:45:42 2015 +0800
+
+    在master分支上增加内容99999
+
+[33mcommit 0c63fc27e392ada710380558f933a0118a56b85e[m
+Author: wangzhenxu <273035735@qq.com>
+Date:   Thu Apr 23 10:43:06 2015 +0800
+
+    添加内容888888
+
+[33mcommit 0eb5ff8fc313ee95382713f2d22e24ea2adfd1ab[m
+Author: wangzhenxu <273035735@qq.com>
+Date:   Thu Apr 23 10:18:54 2015 +0800
+
+    dev分支上增加内容777777
+
+[33mcommit 7907df7841459e1a35b4b62f205b22f23e626c31[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Wed Apr 22 11:41:52 2015 +0800
+
+    提交b.txt和test.txt文件和a.txt文件
+
+[33mcommit e6d6072fbdb57e6499bb2d4de478016f9c0b2af8[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Wed Apr 22 11:33:58 2015 +0800
+
+    添加b.txt文件
+
+[33mcommit 2a6da59985f3e6b8d6e18884de14aac1cd50feb3[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Wed Apr 22 11:10:03 2015 +0800
+
+    一次性提交所有文件，包括新建的文件test.txt
+
+[33mcommit a14b12ede24358c3d88194be3dae88e9fe82cf38[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Tue Apr 21 17:35:25 2015 +0800
+
+    添加readme.txt 内容333333
+
+[33mcommit 4511938c29904a28885f009cbf0f347f296a108e[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Tue Apr 21 17:12:11 2015 +0800
+
+    222内容
+
+[33mcommit 5c287e0476e143c47abc66cf8afb5896677f1848[m
+Author: =wangzhenxu <273035735@qq.com>
+Date:   Tue Apr 21 16:54:54 2015 +0800
+
+    readme.txt提交
